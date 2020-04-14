@@ -1,19 +1,14 @@
 # Netflix UI Redesign With Flutter
-Show some ❤️ and ⭐ the repo!
+
+&nbsp;&nbsp;Show some ❤️ and ⭐ the repo! 
+<br />
+
 ![Twitter URL](https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
+<br />
+<br />
 
 Main Page               |  Detail Page               
 :-------------------------:|:-------------------------:
