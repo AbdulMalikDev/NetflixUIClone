@@ -16,4 +16,4 @@
 
 Main Page               |  Detail Page               
 :-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![]
+![](https://github.com/AbdulMalikDev/NetflixUIClone/blob/master/2.jpeg?raw=true)|![](https://github.com/AbdulMalikDev/NetflixUIClone/blob/master/3.jpeg?raw=true)|![]
